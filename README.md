@@ -1,4 +1,4 @@
 ## Welcome to Bilkies Github Repositories
-```Python
+```python
 import matplotlib
 ```
